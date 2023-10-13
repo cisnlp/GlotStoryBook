@@ -207,6 +207,10 @@ If you are not a fan of the HF dataloader, download it directly:
 ## License and Copyright
 We do not own any of the text from which these data has been extracted. All the files are collected from the repository located at https://github.com/global-asp/. The source repository for each text and file is stored in the dataset. Each file in the dataset is associated with one license from the CC family. The licenses include 'CC BY', 'CC BY-NC', 'CC BY-NC-SA', 'CC-BY', 'CC-BY-NC', and 'Public Domain'. We also license the code, actual packaging and the metadata of these data under the cc0-1.0.
 
+## Sources 
+[global-asp](https://github.com/global-asp/global-asp), [asp-source](https://github.com/global-asp/asp-source), [lcb-source](https://github.com/global-asp/lcb-source), [pb-source](https://github.com/global-asp/pb-source), [sbc-source](https://github.com/global-asp/sbc-source), [gasp-mexico](https://github.com/global-asp/gasp-mexico), [global-pb](https://github.com/global-asp/global-pb), [global-lcb](https://github.com/global-asp/global-lcb), [sbjm-source](https://github.com/global-asp/sbjm-source), [sbug-source](https://github.com/global-asp/sbug-source), [sbno-source](https://github.com/global-asp/sbno-source), [sbk-source](https://github.com/global-asp/sbk-source), [sbuk-source](https://github.com/global-asp/sbuk-source), [lida-source](https://github.com/global-asp/lida-source), [asp-raw-db](https://github.com/global-asp/asp-raw-db), [global-lida](https://github.com/global-asp/global-lida), [gasp-alternates](https://github.com/global-asp/gasp-alternates), [asp-new](https://github.com/global-asp/asp-new) 
+
+
 
 ## Citation
 If you use any part of this code and data in your research, please cite it using the following BibTeX entry.
