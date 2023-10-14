@@ -213,7 +213,7 @@ We do not own any of the text from which these data has been extracted. All the 
 
 
 ## Citation
-If you use any part of this code and data in your research, please cite it using the following BibTeX entry.
+If you use any part of this code and data in your research, please cite it  (along with https://github.com/global-asp/) using the following BibTeX entry.
 This work is part of the [GlotLID](https://github.com/cisnlp/GlotLID) project.
 
 ```
